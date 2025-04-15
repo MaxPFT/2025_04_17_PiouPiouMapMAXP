@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "be.elab.blockscolor": "https://github.com/EloiStree/2024_10_16_BlocksColor.git",
     "com.meta.xr.sdk.all": "74.0.3",
     "com.unity.cinemachine": "3.1.2",
     "com.unity.collab-proxy": "2.7.1",
