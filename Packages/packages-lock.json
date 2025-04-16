@@ -7,6 +7,20 @@
       "dependencies": {},
       "hash": "bb6a8f495c318578c7d977cfac4ccaaa4daa52d1"
     },
+    "be.elab.ovnitoy": {
+      "version": "https://github.com/EloiStree/2025_04_15_KidToyOvniCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a2940302d297752372ced4c88ef01a2da7d4852a"
+    },
+    "be.elab.tickcollection": {
+      "version": "https://github.com/EloiStree/OpenUPM_TickCollection.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f7c20645fe7b095e1220fa32cf54664c690b6a92"
+    },
     "com.meta.xr.mrutilitykit": {
       "version": "74.0.2",
       "depth": 1,
