@@ -707,7 +707,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 7361
+  m_VersionIndex: 7382
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -739,7 +739,7 @@ MeshCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
 --- !u!1 &7842966493849807970
@@ -755,7 +755,6 @@ GameObject:
   - component: {fileID: 2020165993153862925}
   - component: {fileID: 8963914142822817357}
   - component: {fileID: 6647988400077222474}
-  - component: {fileID: 8966087903389464327}
   - component: {fileID: 6145269193727479364}
   m_Layer: 0
   m_Name: Anneau Ile
@@ -31529,7 +31528,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 3322
+  m_VersionIndex: 3343
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -31616,28 +31615,6 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7842966493849807970}
-  m_Mesh: {fileID: 0}
---- !u!64 &8966087903389464327
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7842966493849807970}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
   m_Mesh: {fileID: 0}
 --- !u!114 &6145269193727479364
 MonoBehaviour:
